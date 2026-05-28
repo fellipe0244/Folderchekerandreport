@@ -27,8 +27,16 @@ Este aplicativo foi desenvolvido combinando o poder de automação e varredura d
 
 ## Downloads 
 
-https://github.com/fellipe0244/Folderchekerandreport/releases/tag/versions
+Disponibilizado a versão 1.0 com o executável e instalador para escolha do usuário.
 
+A versão "VerificarCaminhosLongos" seja exe ou setup, funciona em SO mais recentes, pois tem o motor eléctron mais atualizado.
+
+A versão "VerificarCaminhosLongos light" e "VerificarCaminhosLongos light Setup", são mais leves e funcionam em SO's mais antigos.
+
+A versao .exe, é só executar, pode demorar para abrir carregando todos os componentes compilados.
+A versao setup é de instalação.
+
+https://github.com/fellipe0244/Folderchekerandreport/releases/tag/versions
 
 ## 💻 Como Rodar o Projeto em Desenvolvimento
 
