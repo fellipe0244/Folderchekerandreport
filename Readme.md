@@ -25,6 +25,11 @@ Este aplicativo foi desenvolvido combinando o poder de automação e varredura d
 
 ---
 
+## Downloads 
+
+https://github.com/fellipe0244/Folderchekerandreport/releases/tag/versions
+
+
 ## 💻 Como Rodar o Projeto em Desenvolvimento
 
 Antes de começar, você vai precisar do [Node.js](https://nodejs.org/) instalado na sua máquina.
